@@ -37,7 +37,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
- Developed by: RegisterNumber:212223230061
+ Developed by:GAYATHRI K
+ RegisterNumber:212223230061
 ``````
 module ex7(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
